@@ -8,16 +8,7 @@ public class Main {
 		System.out.println("This is change one");
 		System.out.println("This is change one");
 		System.out.println("This is change one");
-		System.out.println("This is change one");
-		System.out.println("This is change one");
-		System.out.println("This is change one");
-		System.out.println("This is change one");
-		System.out.println("This is change one");
-		System.out.println("This is change one");
-		System.out.println("This is change one");
-		System.out.println("This is change one");
-		
-
+	
 	}
 
 }
